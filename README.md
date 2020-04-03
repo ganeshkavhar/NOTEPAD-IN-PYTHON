@@ -1,2 +1,18 @@
 # NOTEPAD-IN-PYTHON-
-The Notepad in Python is a simple and similar version of the text editor application. In this application, you can create text documents easily. The system allows you greater flexibility while editing the text files or the documents. Talking about this system, this system has various features intact within it. It will provide you the controls for editing texts and styling them.
+
+About The System
+The project file contains python scripts (Notepad.py). You can even perform the word search and replace the word. This allows you to take control of your spelling mistakes in the paragraphs. The design of this is so simple that the user won’t find difficulties while working on it. This project is easy to operate and understood by the users.
+
+
+
+
+How To Run The Project?
+To run this project, you must have installed Python on your PC. After downloading the project, you have to follow the steps below:
+
+Step1: Extract/Unzip the file
+
+Step2: Go inside the project folder, open cmd then type Notepad.py and enter to start the system.
+
+OR
+
+Step2: Simply, double click the Notepad.py file and you are ready to go.
